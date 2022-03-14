@@ -1,0 +1,4 @@
+baseURL = "http://shaninpersonal.xyz"
+languageCode = "en-us"
+title = "Shanin Website"
+theme = "PaperMod"
