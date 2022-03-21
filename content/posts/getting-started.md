@@ -1,6 +1,7 @@
 ---
 title: "Getting Started"
 date: 2022-03-14T10:42:05+02:00
+author: Alex Shanin
 draft: false
 tags: ["hugo"]
 categories: ["live"]

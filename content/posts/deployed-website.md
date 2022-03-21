@@ -1,6 +1,7 @@
 ---
 title: "Deployed Website"
 date: 2022-03-17T09:14:20+02:00
+author: Alex Shanin
 draft: false
 tags: ["hugo"]
 categories: ["live"]
